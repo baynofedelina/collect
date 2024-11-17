@@ -24,4 +24,4 @@ AnimeBookCollection Mobile App.
 <img src="assets/images/screenshot/tabs.jpg">  
 
 # Walkthrough
-<https://youtube.com/shorts/rel3qJc78IE?feature=share>
+* <https://youtube.com/shorts/rel3qJc78IE?feature=share>
